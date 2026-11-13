@@ -130,9 +130,4 @@ From the root directory:
 ---
 
 
----
 
-## 📬 Submission Checklist for Exactspace
-1. Public Git repository with clean commits.
-2. Verified local execution of both applications.
-3. Share repository link via reply to `radha.mr@exactspace.co` prior to **16 Nov, 2026, 11:00 AM**.
