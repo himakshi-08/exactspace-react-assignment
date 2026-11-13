@@ -1,0 +1,17 @@
+{
+  "name": "exactspace-react-assignments",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Exactspace Technologies Front End / UI Developer Internship Assignment Submission",
+  "scripts": {
+    "dev:chat": "npm --prefix chat-app run dev",
+    "dev:chat:client": "npm --prefix chat-app run dev:client",
+    "dev:chat:server": "npm --prefix chat-app run dev:server",
+    "dev:gallery": "npm --prefix photo-gallery run dev",
+    "build": "npm --prefix chat-app run build && npm --prefix photo-gallery run build",
+    "install:all": "npm --prefix chat-app install && npm --prefix photo-gallery install"
+  },
+  "author": "Front End Developer Applicant",
+  "license": "MIT"
+}
+
